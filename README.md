@@ -1,6 +1,13 @@
 
 ## Penjelasan Konsep pada tugas Praktikum
 
+
+## 🔗 Links Repo Tugas Lainnya
+1. https://github.com/candzon/photofilter
+
+2. https://github.com/candzon/kamera
+
+
 ### 1. **Maksud `void async`**
 `void async` adalah kombinasi dari dua konsep dalam Dart:
 - **`void`**: Menunjukkan bahwa fungsi tersebut tidak mengembalikan nilai apa pun.
